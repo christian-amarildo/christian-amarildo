@@ -24,7 +24,7 @@ My passion lies in the field of cybersecurity, where I'm committed to enhancing 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://instagram.com/kibum.png](https://www.instagram.com/dev_christian1/)) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/laura-grassi](https://www.linkedin.com/in/christian-amarildo/))
 
 # 📊 GitHub Stats:
-<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=christian-amarildo&theme=neon&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=christian-amarildo&theme=neon&hide_border=false"  width="400px" />
+<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=christian-amarildo&hide=stars,prs,issues&theme=neon&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=christian-amarildo&theme=neon&hide_border=false"  width="400px" />
 
 
 

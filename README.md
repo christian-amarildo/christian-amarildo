@@ -1,15 +1,10 @@
 # 👋 Hi there
 
-I'm Laura Grassi, a passionate software developer and tech enthusiast. I currently work as a Senior Software Developer at XTEAM. </br>
-With over 8 years of experience in the field, I've had the opportunity to work on various exciting projects and explore different technologies.
-
+I'm Christian, a technology enthusiast and dedicated software developer. Currently, I'm navigating my career as a professional in the technology field, eagerly seeking to explore new challenges and exciting opportunities.
 
 # 🚀 Expertise
 
-My primary focus is on frontend development, where I specialize in building interactive and user-friendly web applications. I have extensive knowledge of HTML, CSS, JavaScript and Typescript, and I'm proficient in popular frameworks and libraries such as React and VUE. </br> 
-I love working on the frontend because it allows me to combine my creativity with problem-solving skills to deliver exceptional user experiences.
-
-# 💻 Tech Stack
+My passion lies in the field of cybersecurity, where I'm committed to enhancing digital security through the implementation of advanced protection practices. My expertise also extends to other technology domains, allowing me to have a comprehensive and interdisciplinary view of the cybersecurity field.
 
 # 📋 Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 

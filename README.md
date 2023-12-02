@@ -1,10 +1,10 @@
-# 👋 Hi there
+# 👋 oi
 
-I'm Christian, a technology enthusiast and dedicated software developer. Currently, I'm navigating my career as a professional in the technology field, eagerly seeking to explore new challenges and exciting opportunities.
+Olá meu nome é Christian,sou um entusiasta de tecnologia e desenvolvedor de software dedicado. Atualmente, estou navegando em minha carreira como profissional na área de tecnologia, buscando ansiosamente explorar novos desafios e oportunidades interessantes.
 
 # 🚀 Expertise
 
-My passion lies in the field of cybersecurity, where I'm committed to enhancing digital security through the implementation of advanced protection practices. My expertise also extends to other technology domains, allowing me to have a comprehensive and interdisciplinary view of the cybersecurity field.
+A minha paixão reside na área da cibersegurança, onde estou empenhado em melhorar a segurança digital através da implementação de práticas avançadas de proteção. A minha experiência estende-se também a outros domínios tecnológicos, permitindo-me ter uma visão abrangente e interdisciplinar da área da cibersegurança.
 
 # 📋 Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)

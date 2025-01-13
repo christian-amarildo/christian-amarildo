@@ -1,16 +1,18 @@
-# 👋 oi
+# 👋 olá
 
-Olá meu nome é Christian,sou um entusiasta de tecnologia e desenvolvedor de software dedicado. Atualmente, estou navegando em minha carreira como profissional na área de tecnologia, buscando ansiosamente explorar novos desafios e oportunidades interessantes.
+Olá meu nome é Christian,sou um entusiasta na área de red team em cibersegurança. Atualmente, estou em busca de novas habilidades na área e desenvolvendo projetos que abordam blockchain
 
-# 🚀 Expertises
+# 🚀 Experiências
 
-A minha paixão reside na área da cibersegurança, onde estou empenhado em melhorar a segurança digital através da implementação de práticas avançadas de proteção. A minha experiência estende-se também a outros domínios tecnológicos, permitindo-me ter uma visão abrangente e interdisciplinar da área da cibersegurança.
+Estou apredendo sobre péricia forense na área de computação, área que me tem me permitida navegar pelas mais diversas experiências e conhecimentos em diversas áreas de cibersegurança e programação.
 
 # 📋 Linguagens
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-
+![Java](
 # 💻 IDEs/Editors
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
